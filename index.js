@@ -17,7 +17,7 @@ function greet(timeString) {
     return "Good Afternoon";
   }else if (integers>17) {
     return "Good Evening";
-    
+
   }
 }
 /* Write your implementation of displayMessage() */
