@@ -9,7 +9,7 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function greet(timeString) {
-  let string=timeString.split(":");
+  let string=time.split(":");
   let integers=persenInt(string);
   if(integers<12){
     return "Good Morning";
